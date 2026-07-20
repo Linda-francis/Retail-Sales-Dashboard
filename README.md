@@ -24,3 +24,7 @@ This project is an interactive Retail Sales Dashboard developed using Microsoft 
 - Dashboard Development
 - Data Visualization
 - KPI Analysis
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
