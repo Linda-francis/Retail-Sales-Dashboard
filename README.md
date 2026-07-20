@@ -27,4 +27,4 @@ This project is an interactive Retail Sales Dashboard developed using Microsoft 
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.pdf)
+![Dashboard](Dashboard.png)
